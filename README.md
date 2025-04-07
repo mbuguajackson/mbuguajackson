@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">A passionate GIS Analyst from Kenya</h3>
 
-- 🔭 I’m currently working on **Geodjango**
+- 🔭 I’m currently working on **Drought monitoring**
 
 - 🌱 I’m currently learning **Django, Backend development**
 
