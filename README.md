@@ -10,7 +10,8 @@
 - 📫 How to reach me **jak.mbugua@gmail.com**
 
 - ⚡ Fun fact **I make maps**
-</p>![Screenshot from 2025-04-09 07-39-41](https://github.com/user-attachments/assets/fc825419-1a0d-4ee7-8ddc-925de28609ee)
+![sample_map](https://github.com/user-attachments/assets/3480da49-2395-49b2-8bf1-a9d2b3036604)
+
   
 
 <p align="left">
