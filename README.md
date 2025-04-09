@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I make maps**
 
-![sample_map](https://github.com/user-attachments/assets/3480da49-2395-49b2-8bf1-a9d2b3036604)
+![sample_map_2](https://github.com/user-attachments/assets/6f49d9a5-9747-43be-9340-32945ab3061c)
 
   
 
