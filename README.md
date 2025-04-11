@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **GIS, Geodjango**
 
-- 📫 How to reach me **jak.mbugua@gmail.com**
-
 - ⚡ Fun fact **I make maps**
 
 ![sample_map](https://github.com/user-attachments/assets/5f6db3c7-06b5-4e4d-9040-2eca478a0452)
