@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **GIS, Geodjango**
 
-- ⚡ Fun fact **I like playing around with data — uncovering stories and trends feels like solving a mystery**
+- ⚡ Fun fact: I like playing around with data — uncovering stories and trends feels like solving a mystery
 
 ![sample_map](https://github.com/user-attachments/assets/5f6db3c7-06b5-4e4d-9040-2eca478a0452)
 
