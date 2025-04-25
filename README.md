@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👯 I’m looking to collaborate on **GIS & RS Projects**
+- 👯 I’m looking to collaborate on projects that tackle **global challenges**
 
 - 💬 Ask me about **GIS, Geodjango**
 
-- ⚡ Fun fact **I make maps**
+- ⚡ Fun fact **I like playing around with data — uncovering stories and trends feels like solving a mystery**
 
 ![sample_map](https://github.com/user-attachments/assets/5f6db3c7-06b5-4e4d-9040-2eca478a0452)
 
