@@ -9,9 +9,8 @@
 
 - ⚡ Fun fact: I like playing around with data — uncovering stories and trends feels like solving a mystery
 
-![sample_map](https://github.com/user-attachments/assets/5f6db3c7-06b5-4e4d-9040-2eca478a0452)
+Data source: GADM, ACLED  ![peaceTrack](https://github.com/user-attachments/assets/6fa5dd2f-32db-4b45-b90b-5220ae819247)
 
-  
 
 <p align="left">
 
