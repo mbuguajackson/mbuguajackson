@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">A passionate GIS Analyst</h3>
+<h3 align="center">A passionate GIS Analyst | Data Scientist</h3>
 
 - 🌱 I’m currently learning **Backend development**
 
