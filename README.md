@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">A passionate GIS Analyst | Data Scientist</h3>
+<h3 align="center">GIS Analyst | Aspiring Backend Developer | Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌍 Passionate about leveraging geospatial and data science solutions to address real-world challenges  
+- 🌱 Currently learning **Backend Development** to expand my technical skills  
+- 🤝 Open to collaborating on projects that tackle **global issues**  
+- 💬 Ask me about **GIS**, **GeoDjango**, or anything spatial data-related  
+- ⚡ Fun fact: I enjoy exploring datasets—uncovering stories and trends feels like solving a mystery
 
-- 👯 I’m looking to collaborate on projects that tackle **global challenges**
-
-- 💬 Ask me about **GIS, Geodjango**
-
-- ⚡ Fun fact: I like playing around with data — uncovering stories and trends feels like solving a mystery
 
 ![peaceTrack](https://github.com/user-attachments/assets/af996370-a081-4962-91a4-421580287e51)
 Data source: ACLED, GADM
