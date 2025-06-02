@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">GIS Analyst | Aspiring Backend Developer | Data Enthusiast</h3>
+<h3 align="center">GIS Analyst | Aspiring Software Developer | Data Enthusiast</h3>
 
 - 🌍 Passionate about leveraging geospatial and data science solutions to address real-world challenges  
-- 🌱 Currently learning **Backend Development** to expand my technical skills  
 - 🤝 Open to collaborating on projects that tackle **global issues**  
-- 💬 Ask me about **GIS**, **GeoDjango**, or anything spatial data-related  
 - ⚡ Fun fact: I enjoy exploring datasets—uncovering stories and trends feels like solving a mystery
 
 
