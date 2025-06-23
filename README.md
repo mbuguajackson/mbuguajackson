@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jackson</h1>
+<h1 align="center">Jackson</h1>
 <h3 align="center">GIS Analyst | Aspiring Software Developer | Data Enthusiast</h3>
 
 - 🌍 Passionate about leveraging geospatial and data science solutions to address real-world challenges  
